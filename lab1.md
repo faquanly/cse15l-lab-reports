@@ -2,11 +2,13 @@
 #
 - Here are some basic filesystem commands I've learned from the lab:
    - Use "git clone" to copy folder/files from the directory by using key work "git clone" and follow by directory link.
-   - Use "java" command to run a .java file on terminal
+
    - Use "pwd" command to show the current working directory.
    - Use "cd" command to change the working directory.
    - Use "ls" command to list the files in the directory.
    - Use "cat" command to read a file.
+   - Use "java" command to run a .java file on terminal.
+In addition, we've learned to create new file, upload files or images on gitHub.
 
 1. **Example of using "cd" command with ==no argument==:**
     ![cd with no argument](image-cd1.png)
@@ -34,7 +36,7 @@
      
 7. **Example of using "cat" command with ==no argument==:**
    ![cat with no argument](image-cat1.png)
-   - When a "cat" command was run with no argument, it was waiting for the input from user. 
+   - When a "cat" command was run with no argument, it was waiting for the input from user and there was no output yet.
    
 8. **Example of using "cat" command with a path to a ==directory== as an argument:**
    -![cat with a path to a directory](image-cat2.png)
