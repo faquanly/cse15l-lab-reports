@@ -1,7 +1,5 @@
-**Emma nguyen - PID 18021060**
--
-**LAB REPORT 1 - Remote Access and FileSystem**                  
--
+**LAB REPORT 1 - Remote Access and FileSystem**                                            
+
 - Here are some basic filesystem commands I've learned from the lab:
    - Use "git clone" to copy folder/files from the directory by using key work "git clone" and follow by directory link.
 
