@@ -7,5 +7,31 @@
    - Use "cd" command to change the working directory.
    - Use "ls" command to list the files in the directory.
    - Use "cat" command to read a file.
-1. Example of using "cd" command without argument:
+1. **Example of using "cd" command with ==no argument==:**
    - ![cd with no argument](image-cd1.png)
+   - When the command was run, the directory was changed to the home directory. Because the "cd" command with no argument will change the directory to the home directory.
+2. **Example of using "cd" command with a path to a ==directory== as an argument:**
+   - ![cd with a path to a directory](image-cd2.png)
+   - When the command was run with an argument, the directory was changed to the new directory (lecture2/) which is indicated in the argument.
+3. **Example of using "cd" command with a path to a ==file== as an argument:**
+   - ![cd with a path to a file](image-cd3.png)
+   - When the command was run with a file as an argument, the output showed an error because a file is not a directory. The "cd" command only works with changing the current directory to a new directory (or go back to /home).
+4. **Example of using "ls" command with ==no argument==:**
+   -![ls with no argument](image-ls1.png)
+   -
+5. **Example of using "ls" command with a path to a ==directory== as an argument:**
+   -![ls with a path to a directory](image-ls2.png)
+   -
+6. **Example of using "ls" command with a path to a ==file== as an argument:**
+   -![ls with a path to a file](image-ls3.png)
+   -
+7. **Example of using "cat" command with ==no argument==:**
+   -![cat with no argument](image-cat1.png)
+   -
+8. **Example of using "cat" command with a path to a ==directory== as an argument:**
+   -![cat with a path to a directory](image-cat2.png)
+   -
+9. **Example of using "cat" command with a path to a ==file== as an argument:**
+   -![cat with a path to a file](image-cat3.png)
+   -
+   -
