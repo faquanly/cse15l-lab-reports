@@ -8,4 +8,4 @@
    - Use "ls" command to list the files in the directory.
    - Use "cat" command to read a file.
 1. Example of using "cd" command without argument:
-   - ![cd with no argument](image-cd1)
+   - ![cd with no argument](image-cd1.png)
