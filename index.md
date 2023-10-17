@@ -2,7 +2,7 @@
 Emma Nguyen - PID 18021060
 
 - Here are some basic filesystem commands I've learned from the lab:
-   - Use "git clone" to copy folder/files from the directory by using key work "git clone" and follow by directory link.
+   - Use "git clone" to clone/copy files and directories from a Github repository to a local computer by using key work "git clone" and follow by directory link.
 
    - Use "pwd" command to show the current working directory.
    - Use "cd" command to change the working directory.
