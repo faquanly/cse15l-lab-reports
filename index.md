@@ -37,9 +37,9 @@ Emma Nguyen - PID 18021060
      
 5. **Example of using "ls" command with a path to a directory as an argument:**
    ![ls with a path to a directory](image-ls2.png)
-   - Working directory before running the command:
-   - Working directory after running the command:
-   - When the "ls" command was run with a path to a directory as an argument, the output was the name of files and folder in that directory (not the current directory).
+   - Working directory before running the command: /home
+   - Working directory after running the command: /home (there is no change in working directory)
+   - When the "ls" command was run with a path to a directory as an argument, the output was the name of files and folder in that directory (not the current directory) but the working directory is still the same.
 
 6. **Example of using "ls" command with a path to a file as an argument:**
    ![ls with a path to a file](image-ls3.png)
