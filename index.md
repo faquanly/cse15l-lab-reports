@@ -33,11 +33,12 @@ Emma Nguyen - PID 18021060
      
 6. **Example of using "ls" command with a path to a file as an argument:**
    ![ls with a path to a file](image-ls3.png)
-   - When the "ls" command was run with a path to a file, the output was also the path to a file.
+   - When the "ls" command was run with a path to a file, the output was also the path to a file. The output will change if the path to a file is changed.
+   - If the path to a file is an absolute path or relative path, the output is also an absolute path or relative path to that file, respectively.
      
 7. **Example of using "cat" command with no argument:**
    ![cat with no argument](image-cat1.png)
-   - When a "cat" command was run with no argument, it was waiting for the input from user and there was no output yet.
+   - When a "cat" command was run with no argument, it was waiting for the input from user and there was no output yet. When I inputted something and hit enter, the output displayed the same content that I've inputted. So I think the "cat" command is just read what the user input and display it again (which is not very useful)
    
 8. **Example of using "cat" command with a path to a directory as an argument:**
    -![cat with a path to a directory](image-cat2.png)
