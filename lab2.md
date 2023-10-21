@@ -1,4 +1,4 @@
-#**LAB REPORT 1**
+#**LAB REPORT 2**
 #
 - Here are some basic filesystem commands I've learned from the lab:
    - Use "git clone" to copy folder/files from the directory by using key work "git clone" and follow by directory link.
